@@ -1,2 +1,2 @@
 # odin-recipes
-TOP foundation course recipes project 
+A simple web page on recipes made during idin project foundation course.
