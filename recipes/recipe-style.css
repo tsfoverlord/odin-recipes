@@ -1,0 +1,28 @@
+body{ 
+    width: 800px;
+    margin:0 auto; 
+    font-family:  monospace;
+    background-color: rgb(230,200,172);
+}
+h1 {
+    text-align: center;
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 19px; 
+ }
+
+img {
+    width: 600px;
+    height: auto;
+    margin: 0 10%;
+}
+p, li {
+    font-size: 18px;
+}
+
+a {
+    font-size: 14px;
+    padding: 20px;
+}
