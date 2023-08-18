@@ -8,6 +8,8 @@ body {
     font-family: monospace;
     height: 100%;
     background-image: radial-gradient(white, rgb(230,200,172));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 
